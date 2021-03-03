@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Grilled Cheese Earrings",
+    "id": "burger_earrings",
+    "description": "Hungry to show off your style? Here's a cheesy way to do so!",
+    "price": "50.00",
+    "image": "/images/gc_earrings.png"
+  },
+  {
+    "title": "Pizza Earrings",
+    "id": "pizza_earrings",
+    "description": "Want the world to see a slice of your style? These will do!",
+    "price": "40.00",
+    "image": "/images/pizza_earrings.png"
+  }
+]
