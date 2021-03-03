@@ -9,4 +9,4 @@
 * npm run dev 
 * (There currently arent any dependancies)
 
-# This application was created using Next.js & relies on the [Snipcart library](https://snipcart.com/)
+# This application was created using Next.js & utilizes on the [Snipcart library](https://snipcart.com/)
